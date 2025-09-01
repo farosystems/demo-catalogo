@@ -15,27 +15,27 @@ export const metadata: Metadata = {
   keywords: "electrodomésticos, cuotas, financiación, heladeras, lavarropas, aires acondicionados",
   generator: 'v0.dev',
   icons: {
-    icon: '/logo1.png',
+    icon: '/logo2.png',
   },
   openGraph: {
     type: 'website',
     locale: 'es_AR',
     url: 'https://catalogo-mundocuotas.vercel.app',
-    siteName: 'MueblesCenter',
-    title: 'MueblesCenter - Electrodomésticos en Cuotas',
+    siteName: 'TuCatalogo',
+    title: 'TuCatalogo - Electrodomésticos en Cuotas',
     description: 'Tu tienda de electrodomésticos de confianza con los mejores planes de financiación. Heladeras, lavarropas, aires acondicionados y más.',
     images: [
       {
         url: '/logo.svg',
         width: 1200,
         height: 630,
-        alt: 'MueblesCenter',
+        alt: 'TuCatalogo',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'MueblesCenter',
+    title: 'TuCatalogo',
     description: 'Tu tienda de electrodomésticos de confianza con los mejores planes de financiación. Heladeras, lavarropas, aires acondicionados y más.',
     images: ['/logo.svg'],
   },

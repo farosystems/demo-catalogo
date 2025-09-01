@@ -78,7 +78,7 @@ export default function HeroSection() {
             <div className="bg-white/95 backdrop-blur-xl p-4 sm:p-6 md:p-8 rounded-2xl shadow-2xl border border-white/30 hover:shadow-3xl transition-all duration-300 w-full max-w-xs sm:max-w-sm mx-auto">
               <h2 className="text-2xl sm:text-3xl font-bold mb-4 sm:mb-6" style={{color: '#FF2F12'}}>¿Quiénes Somos?</h2>
               <p className="text-sm sm:text-base md:text-lg mb-3 sm:mb-4 leading-relaxed text-gray-800">
-                En MueblesCenter somos una empresa especializada en la venta de electrodomésticos con más de 10 años de
+                En TuCatalogo somos una empresa especializada en la venta de electrodomésticos con más de 10 años de
                 experiencia en el mercado. Nos dedicamos a brindar soluciones accesibles para tu hogar.
               </p>
               <p className="text-sm sm:text-base md:text-lg leading-relaxed text-gray-800">

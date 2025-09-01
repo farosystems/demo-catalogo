@@ -21,12 +21,12 @@ export default function Footer() {
           <div className="space-y-4">
             <div className="flex items-center space-x-3">
               <img 
-                src="/LOGO BLANCO.png" 
+                src="/logo2.png" 
                 alt="MUNDO CUOTAS" 
                 className="h-20 w-auto"
               />
               <div>
-                <h3 className="text-xl font-bold">MueblesCenter</h3>
+                <h3 className="text-xl font-bold">TuCatalogo</h3>
                 <p className="text-green-100 text-sm">Tu tienda de electrodomésticos de confianza</p>
               </div>
             </div>
@@ -105,7 +105,7 @@ export default function Footer() {
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="size-4 text-violet-300" />
-                <p className="text-green-100">info@MueblesCenter.com</p>
+                <p className="text-green-100">info@TuCatalogo.com</p>
               </div>
               <div className="flex items-center space-x-3">
                 <Clock className="size-4 text-violet-300" />
@@ -123,7 +123,7 @@ export default function Footer() {
         <div className="border-t border-green-600 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-green-100 text-sm text-center md:text-left">
-              © 2025 MueblesCenter. Todos los derechos reservados. 
+              © 2025 TuCatalogo. Todos los derechos reservados. 
               Especialistas en electrodomésticos con financiación.
             </p>
             <div className="flex items-center space-x-4">

@@ -31,7 +31,7 @@ export default function TypewriterText() {
   const [isDeleting, setIsDeleting] = useState(false)
   const [showCursor, setShowCursor] = useState(true)
 
-  const fullText = "MueblesCenter"
+  const fullText = "TuCatalogo"
 
   useEffect(() => {
     const timeout = setTimeout(

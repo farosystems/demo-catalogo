@@ -231,7 +231,7 @@ export default function ProductPageClient({ params }: ProductPageClientProps) {
         <div className="mb-16 bg-gray-50 py-16">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold text-gray-900 mb-4">
-              ¿Por qué elegir MueblesCenter?
+              ¿Por qué elegir TuCatalogo?
             </h2>
           </div>
 

@@ -45,10 +45,10 @@ export default function GlobalAppBar() {
             {/* Logo - responsive */}
             <div className="flex-shrink-0 ml-14">
               <Link href="/" className="flex items-center group">
-                <div className="relative ml-[-40px]">
+                <div className="relative ml-[-80px]">
                   <img 
-                   src="/logo1.png" 
-                    alt="MueblesCenter" 
+                   src="/logo.png" 
+                    alt="TuCatalogo" 
                     className="h-32 w-auto scale-125 sm:scale-150 lg:scale-175 transition-transform duration-300 group-hover:scale-190"
                   />
                   <div className="absolute inset-0 bg-green-400 opacity-0 group-hover:opacity-10 rounded-lg transition-opacity duration-300"></div>
